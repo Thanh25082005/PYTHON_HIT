@@ -1,5 +1,5 @@
 <h1>** ChatPot RAG **</h1>
-# ChatPot RAG
+# Chatbot tiếng Việt
 
 
 **Nhóm tác giả**
